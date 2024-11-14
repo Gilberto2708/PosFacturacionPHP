@@ -1,0 +1,14 @@
+# Dependencias y archivos de Composer
+/vendor/
+composer.lock
+
+# Configuración local
+.env
+
+# Archivos temporales
+*.log
+*.cache
+
+# Configuración del editor o sistema
+.idea/
+.vscode/
